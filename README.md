@@ -6,4 +6,4 @@ Implemented a custom hashmap (that works like the C++ STL unordered map) that ma
   
 Tech Used: C++, XCode
 
-**Source code in this repository is only code that I have implemented individually; not every file of the project is pushed due school policies, but is available upon request.**
+**Source code in this repository is only code that I have implemented individually; not every file of the project is pushed due school policies(UCLA COM SCI 32), but is available upon request.**
